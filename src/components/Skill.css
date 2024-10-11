@@ -1,0 +1,24 @@
+.skill{
+    color: white;
+    font-family: "IM Fell English";
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+.skill h2{
+    text-decoration: underline;
+}
+.section h2{
+    margin-top: -10px;
+    text-decoration: underline;
+}
+.section h2,h3{
+    text-decoration: underline;
+}
+::-webkit-scrollbar{
+    background-color: transparent;
+}
+::-webkit-scrollbar-corner{
+    background-color: transparent;
+}
